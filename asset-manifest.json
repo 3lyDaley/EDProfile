@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/EDProfile/static/css/main.073c9b0a.css",
+    "main.js": "/EDProfile/static/js/main.308b93e6.js",
+    "static/js/787.2971063f.chunk.js": "/EDProfile/static/js/787.2971063f.chunk.js",
+    "static/media/logo.svg": "/EDProfile/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/EDProfile/index.html",
+    "main.073c9b0a.css.map": "/EDProfile/static/css/main.073c9b0a.css.map",
+    "main.308b93e6.js.map": "/EDProfile/static/js/main.308b93e6.js.map",
+    "787.2971063f.chunk.js.map": "/EDProfile/static/js/787.2971063f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.308b93e6.js"
+  ]
+}
